@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+pydantic[email]
+pydantic[dotenv]
+starlette
+loguru
+alembic
+pypika
+bcrypt
+asyncpg
+aiosql
+passlib
+httpx
+asgi_lifespan
+slugify
+jwt
