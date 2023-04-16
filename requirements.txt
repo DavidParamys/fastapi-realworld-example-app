@@ -4,6 +4,7 @@ pydantic
 pydantic[email]
 pydantic[dotenv]
 starlette
+sqlalchemy
 loguru
 alembic
 pypika
@@ -15,3 +16,4 @@ httpx
 asgi_lifespan
 slugify
 jwt
+psycopg2
